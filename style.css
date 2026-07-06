@@ -12,3 +12,11 @@ color: beige;
 max-width: 800px;
 margin: 0 auto;
 }
+
+img{
+ display: block;
+ width: 250px;
+ margin: 0 auto;
+ border: 4px solid rgb(34, 3, 0);
+height: 300px ;
+}
