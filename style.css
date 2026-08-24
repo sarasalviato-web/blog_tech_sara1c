@@ -1,6 +1,6 @@
 header {
-    background-color: rgb(86, 27, 141); /* cor de fundo */
-    color: antiquewhite; /* cor da fonte */
+    background-color: rgb(79, 113, 207); /* cor de fundo */
+    color: rgb(36, 146, 128); /* cor da fonte */
     text-align: center; /* centraliza o texto horizontalmente */
     max-width: 800px; /* define a largura máxima que o elemento pode ter */
     margin: 0 auto; /* centraliza o bloco inteiro na tela */
@@ -13,7 +13,7 @@ h1{
 
 main {
     background-color: aliceblue;
-    color: #ff05d5;
+    color: #210c94;
     max-width: 800px;
     margin: 0 auto;
     padding: 16px;
